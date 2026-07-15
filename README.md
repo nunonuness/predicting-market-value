@@ -218,7 +218,7 @@ If you use this code or build upon this research, please cite:
 
 ```bibtex
 @mastersthesis{nuno2026marketvalue,
-  author  = {Nuno Guilherme},
+  author  = {Nuno Nunes},
   title   = {Predicting Footballers' Market Value from Performance Metrics},
   school  = {NOVA Information Management School (NOVA IMS)},
   year    = {2026},
