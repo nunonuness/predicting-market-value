@@ -3,7 +3,7 @@
 ### A Position-Aware, Factual-Only Machine-Learning Approach
 
 > **Master's Thesis — NOVA IMS, 2026**
-> Author: Nuno Guilherme · <nunoguilherme8@gmail.com>
+> Author: Nuno Nunes · <nunoguilherme8@gmail.com>
 
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-orange?logo=scikitlearn&logoColor=white)
@@ -188,7 +188,7 @@ and attacking-third touches for forwards, ball progression for midfielders.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-user>/predicting-market-value.git
+git clone https://github.com/nunonuness/predicting-market-value.git
 cd predicting-market-value
 ```
 
