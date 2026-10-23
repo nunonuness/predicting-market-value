@@ -210,6 +210,13 @@ The notebook reads `data/thesis_dataset_2223.csv` and reproduces the full pipeli
 feature engineering, data-driven feature selection, the sixteen models, the two-phase evaluation
 and the interpretability analysis.
 
+> **Library versions.** `matplotlib` is capped below 3.10 because later releases reject the
+> `boxplot(labels=...)` argument used in the outlier figure. The notebook was last verified end to
+> end with pandas 3.0.5, numpy 2.5.3, scikit-learn 1.9.1, xgboost 3.4.1, shap 0.54.1 and
+> matplotlib 3.9.4. With other versions, features that sit right at the 2% selection threshold can
+> change, so individual scores may differ from the thesis by a few thousandths of R²; the model
+> ranking (ridge best in every pipeline) is unaffected.
+
 ---
 
 ## Citation
